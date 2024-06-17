@@ -18,9 +18,11 @@ span {
 .star {
   font-size: large;
 }
+
 .starActive {
   color: red;
 }
+
 .starInactive {
   color: #ccc;
 }
