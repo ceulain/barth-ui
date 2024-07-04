@@ -1,1 +1,3 @@
-export * from "./SmartRating";
+import SmartRating from "./SmartRating";
+
+export { SmartRating };

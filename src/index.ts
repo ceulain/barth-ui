@@ -1,1 +1,3 @@
-export * from "./components";
+import { SmartRating } from "./components";
+
+export { SmartRating };
